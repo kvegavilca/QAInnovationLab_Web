@@ -15,3 +15,6 @@ import org.junit.runner.RunWith;
 )
 public class RunnerTest {
 }
+
+
+/* En target se muestra todas las capturas realizas en la automatización*/
